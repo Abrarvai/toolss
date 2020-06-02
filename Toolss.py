@@ -40,6 +40,7 @@ ONLY FOR TERMUX!
 17. Install Hash-Buster
 18. Install D-TECT
 19. Install routersploit
+20. Install wifihack
 ------------------------------------------
 99. Exit
 ==========================================
